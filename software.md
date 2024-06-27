@@ -33,3 +33,16 @@ Could be an alternative to web hosting, instead just locally host and connect to
 ## Tailscale
 
 Similar to wireguard, uses the same protocol
+
+## Nextcloud
+
+File hosting service with many plugins for different uses.
+Can automatically sync with desktop and mobile
+
+## Gitea
+
+Git server hosting with many additional features
+
+## Bind9
+
+DNS Server, should be able to let me easily access the home server without IP 
