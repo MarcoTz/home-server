@@ -46,3 +46,8 @@ Git server hosting with many additional features
 ## Bind9
 
 DNS Server, should be able to let me easily access the home server without IP 
+
+## OPNsense
+
+firewall + routing
+also supports traffic shaping, load balancing and VPN, plus plugin support 
