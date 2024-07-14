@@ -64,3 +64,15 @@ needs to be available from outside the network
 ### DNS
 
 Some way to keep access when IP address changes
+
+### Power consumption 
+
+Depending on the number of devices, figure out how much power they use and what kind of standby options are available. Balance uptime with consumption 
+
+since idle Linux devices should not require much power, I'll probably lean towards uptime.
+
+### Virtual Networking
+
+also depending on the number of devices, get a managed switch or similar. or manage devices via software. 
+
+I don't want to rely on the crappy Vodafone Router when I can avoid it. I could possibly use one of the Fritzboxes, that will depend on having cable/DSL and if Vodafone manages to actually let me use it 
