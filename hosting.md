@@ -54,6 +54,12 @@ Files backup and sync between devices
 Especially for replacing google photos
 Needs to be available from outside the network
 
+### Backups
+
+so far only Plex stuff is backed up, but only with extra copies. 
+
+once the server encompasses more data and devices this will have to be updated. A good RAID array would be optimal, but that would require lots of additional hardware
+
 ## Low Priority
 
 ### Git Server 
